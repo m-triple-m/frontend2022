@@ -35,9 +35,6 @@ function App() {
       primary: {
         main: "#210808",
       },
-      secondary: {
-        main: "#a10",
-      },
     },
   });
 
